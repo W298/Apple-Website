@@ -11,7 +11,7 @@
 
 .title {
 	padding-top: 2rem;
-	padding-bottom: 2rem;
+	padding-bottom: 0.7rem;
 }
 
 .title > h2 {
@@ -31,7 +31,7 @@
 	padding-bottom: 0.3rem;
 	padding-right: 0.6rem;
 	padding-left: 0.6rem;
-	color: #3a393d;
+	color: #76757b;
 }
 
 .name-card {
@@ -60,4 +60,12 @@
 .scrollable {
 	height: 100vh;
 	overflow-y: scroll;
+}
+
+.title-img {
+	width: 3.5rem;
+	height: 3.5rem;
+	margin: 0.3rem;
+	margin-top: 0.4rem;
+	margin-bottom: 0.4rem;
 }
